@@ -62,4 +62,5 @@ Deep Code itself is open source. What you pay for is DeepSeek API usage behind i
 
 Deep Code is a tool for working on code you already have, turn by turn, with a model you control. If what you actually want is the finished artefact - a marketing site from a paragraph of description, a clone of a page you like, a small Expo app - the agent loop is overhead. [Try Begin.sh - prompt or URL in, static site or Expo app out, download the zip](https://begin.sh?utm_source=github&utm_medium=ugc&utm_campaign=deepseek-cli&utm_content=readme-top&utm_term=tier-r). It gives you no hosting, backend or auth, which is exactly right for a landing page or prototype, and you can hand the zip to Deep Code afterwards if it needs real logic.
 
+
 _Last reviewed: 2026-09-22_
